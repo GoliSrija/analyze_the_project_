@@ -1,0 +1,42 @@
+STDOUT
+https://frontend-p485ya1iy-golisrijas-projects.vercel.app
+
+STDERR
+Vercel CLI 59.1.3 (Node.js 22.14.0)
+
+  Directory       ~\OneDrive\Desktop\projects\AISTool\backend\generated_projects\analyze_the_project_\frontend
+
+Loading teamsâ€¦
+  Team            golisrijas-projects
+Searching for existing projectsâ€¦
+Searching for existing projectsâ€¦
+
+âœ“ Linked          golisrijas-projects/frontend
+
+Retrieving projectâ€¦
+> Downloading `development` environment variables for golisrijas-projects/frontend
+Downloading
+
+âœ“ Created         .env.local file and added it to .gitignore
+Deploying golisrijas-projects/frontend
+Uploading [--------------------] (0.0B/940B)
+Uploading [=========-----------] (436.0B/940B)
+Uploading [====================] (940.0B/940B)
+  Inspect         https://vercel.com/golisrijas-projects/frontend/HLkpstYpwDymqF45af6dYcKZK8vg
+  Production      https://frontend-p485ya1iy-golisrijas-projects.vercel.app
+Buildingâ€¦
+Buildingâ€¦
+Running build in Washington, D.C., USA (East) â€“ iad1
+Build machine configuration: 2 cores, 8 GB
+Retrieving list of deployment files...
+Previous build caches not available.
+Downloading 10 deployment files...
+Running "vercel build"
+Vercel CLI 62.1.0
+Build Completed in /vercel/output [37ms]
+Deploying outputs...
+[2K[1A[2K[G  Production      https://frontend-p485ya1iy-golisrijas-projects.vercel.app
+Completingâ€¦
+â–² Aliased         https://frontend-mu-dusky-fprlm339b7.vercel.app
+
+âœ“ Ready in 6s
